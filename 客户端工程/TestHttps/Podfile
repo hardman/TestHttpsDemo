@@ -1,0 +1,5 @@
+
+target 'TestHttps' do
+    pod 'AFNetworking'
+end
+

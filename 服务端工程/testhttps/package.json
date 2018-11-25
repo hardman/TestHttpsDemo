@@ -1,0 +1,13 @@
+{
+    "name": "test-https",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "debug": true,
+    "dependencies": {
+        "koa": "2.5.2",
+        "koa-router": "^7.4.0"
+    }
+}
